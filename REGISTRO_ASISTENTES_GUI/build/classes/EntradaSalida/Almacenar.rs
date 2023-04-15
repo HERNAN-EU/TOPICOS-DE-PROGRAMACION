@@ -1,0 +1,1 @@
+EntradaSAlida.Almacenar
